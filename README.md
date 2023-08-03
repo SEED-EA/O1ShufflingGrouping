@@ -36,8 +36,3 @@ We are a cross-disciplinary team within EA Worldwide Studios.<br>
 Our mission is to explore, build and help define the future of interactive entertainment.</p>
 
 This code accompanies an article written by Alan Wolfe (<a href="https://blog.demofox.org/">blog.demofox.org</a>) and William Donnelly.
-
-## Contributing
-
-Before you can contribute, EA must have a Contributor License Agreement (CLA) on file that has been signed by each contributor.
-You can sign here: http://bit.ly/electronic-arts-cla
