@@ -1,6 +1,6 @@
 # Constant Time Stateless Shuffling and Grouping
 
-This is code to accompany the blog post at [TODO: link here], which talks about using format preserving encryption and some mathematical concepts to shuffle items, or group them together in arbitrary group sizes, in constant time, as well as statelessly. Nothing actually needs to be shuffled or grouped.
+This is code to accompany the blog post at https://www.ea.com/seed/news/constant-time-stateless-shuffling, which talks about using format preserving encryption and some mathematical concepts to shuffle items, or group them together in arbitrary group sizes, in constant time, as well as statelessly. Nothing actually needs to be shuffled or grouped.
 
 The code shows these techniques being used in four demonstrations.
 
@@ -35,4 +35,4 @@ To address this issue, a `StatelessShuffle` object could be used to randomize th
 We are a cross-disciplinary team within EA Worldwide Studios.<br>
 Our mission is to explore, build and help define the future of interactive entertainment.</p>
 
-This code accompanies an article written by Alan Wolfe (<a href="https://blog.demofox.org/">blog.demofox.org</a>) and William Donnelly.
+This code accompanies an article written by Alan Wolfe (<a href="https://blog.demofox.org/">blog.demofox.org</a>) and William Donnelly, at https://www.ea.com/seed/news/constant-time-stateless-shuffling.
